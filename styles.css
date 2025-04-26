@@ -64,3 +64,6 @@ footer {
 .btn:hover {
   background-color: #e68900;
 }
+html {
+  scroll-behavior: smooth;
+}
